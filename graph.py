@@ -1,4 +1,4 @@
-# check if stats.txt exists
+# Graphs Delays and Bandwidth and statistics about those for a simple Distributed System
 
 # read each line from stats.txt
 # for each second aggregate size and delay
